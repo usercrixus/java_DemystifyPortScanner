@@ -5,7 +5,7 @@ For more information on port scanner please visit <a href="https://en.wikipedia.
 
 <p>To test this code you have to start an http server, or an other server, on localhost.</p>
 <p align="center">
-  <img src="https://github.com/usercrixus/java_DemystifyPortScanner/blob/main/demo.pnj?raw=true" />
+  <img src="https://github.com/usercrixus/java_DemystifyPortScanner/blob/master/demo.pnj?raw=true" />
 </p>
 <p>Outpout :</br>
 port 21 of host 127.0.0.1 is open</br>
