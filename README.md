@@ -3,7 +3,7 @@
 <p>Here is an example of how implement a port scanner with java.</br>
 For more information on port scanner please visit <a href="https://en.wikipedia.org/wiki/Port_scanner">wikipedia</a>.</p>
 
-<p align="center">To test this code you have to start an http server, or an other server, on localhost.</p>
+<p>To test this code you have to start an http server, or an other server, on localhost.</p>
 <p align="center">
   <img src="https://github.com/usercrixus/java_DemystifyPortScanner/blob/main/demo.pnj" />
 </p>
